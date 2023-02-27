@@ -175,7 +175,7 @@ span{
 
 .main-image::after {
 	content:"";
-	background: url('/rhytm2/images/header/toMain.svg') 0 0 no-repeat;
+	background: url('/images/header/toMain.svg') 0 0 no-repeat;
 	width: 8rem;
 	height: 8rem;
 	right: 36.3%;
@@ -395,19 +395,19 @@ span{
 }
 
 .box-for-why-img::after{
-    content: url(/rhytm2/images/why/category-2.svg);
+    content: url(/images/why/category-2.svg);
     transform: translate(65%, 60%);
     position: absolute;
 }
 
 .box-for-why-img-second::after{
-    content: url(/rhytm2/images/why/empty-wallet-tick.svg);
+    content: url(/images/why/empty-wallet-tick.svg);
     transform: translate(65%, 60%);
     position: absolute;
 }
 
 .box-for-why-img-third::after{
-    content: url(/rhytm2/images/why/group.svg);
+    content: url(/images/why/group.svg);
     transform: translate(65%, 60%);
     position: absolute;
 }
@@ -465,7 +465,7 @@ span{
 }
 
 .img-slider::before{
-    content: url(/rhytm2/images/customers/Rectangle\ 144.svg);
+    content: url(/images/customers/Rectangle\ 144.svg);
     position: absolute;
     z-index: -1;
     transform: translate(-25%,15%);
